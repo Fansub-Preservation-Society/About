@@ -16,9 +16,10 @@ Guidelines
   * Joint group repors will have "joint_" parsed in front of the name of the repo to
     make it easier to identify as a joint group repo.
   * The name of the group will be use periods as substitution for spaces.
-  * The repo name will end with a dash followed by the three character ISO 639-2 code
-    for the language of the releaes. If a group releases in multiple languages, there
-    will be a repo for each language.
+  * The repo name will end with a dash followed by the three character
+    [ISO 639-2 code](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) for the
+    language of the releaes. If a group releases in multiple languages, there will be a
+    repo for each language.
 5. Within each repo, all the releases will sorted by the official romaji name of the anime
    per listed on [AniDB.net](http://anidb.net).
 6. The file name of each subtitle file will be formated as follows:
